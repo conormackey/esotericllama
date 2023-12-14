@@ -3,9 +3,9 @@
 The full project report is the file "project report.pdf".
 
 This repo contains chat conversations with the:
-  1) Llama 2 7B chat model prior to fine tuning
-  2) Llama 2 7B chat model after fine tuning
-  3) Llama 2 7B base model after fine tuning
+  1) Llama 2 7B chat model prior to fine tuning (llama-2-chat-outputs.txt)
+  2) Llama 2 7B chat model after fine tuning (chat-ft-chats.txt)
+  3) Llama 2 7B base model after fine tuning (base-ft-chats.txt)
 
 Each model was asked the same series of questions, which allows for a more direct comparison.
 
