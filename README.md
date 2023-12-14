@@ -9,7 +9,7 @@ This repo contains chat conversations with the:
 
 Each model was asked the same series of questions, which allows for a more direct comparison.
 
-This repo also contains the notebook file that was used to fine tune both models. The first section of the notebook is dedicated the training loop, which ends with you being able to save the model to your Google Drive The second section allows you to load the fine tuned model and run inference with a prompt you can define. Both models were trained in a Google Colab on a single Nvidia V100.
+This repo also contains the notebook file that was used to fine tune both models. The first section of the notebook is dedicated the training loop, which ends with you being able to save the model to your Google Drive. The second section allows you to load the fine tuned model and run inference with a prompt you can define. Both models were trained in a Google Colab on a single Nvidia V100.
 
 ### Links:
   - Dataset: https://huggingface.co/datasets/teknium/trismegistus-project
